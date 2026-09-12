@@ -1,0 +1,19 @@
+{
+  "name": "portfolio-fullstack",
+  "version": "1.0.0",
+  "description": "Full-stack portfolio website with contact API",
+  "main": "api/script.js",
+  "scripts": {
+    "start": "node api/script.js"
+  },
+  "keywords": [
+    "portfolio",
+    "express",
+    "fullstack"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}

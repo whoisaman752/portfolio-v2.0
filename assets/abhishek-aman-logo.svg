@@ -1,0 +1,8 @@
+<svg width="236" height="72" viewBox="0 0 236 72" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect x="2" y="2" width="232" height="68" rx="18" fill="#111118" stroke="rgba(255,255,255,0.16)" stroke-width="2"/>
+  <circle cx="36" cy="36" r="18" fill="#7F6FF5"/>
+  <path d="M28 47L36 24L44 47H38.8L37.2 42H34.8L33.2 47H28ZM35.6 38H36.4L36 36.8L35.6 38Z" fill="#F0EEFC"/>
+  <text x="62" y="43" fill="#F0EEFC" font-family="Syne, Arial, sans-serif" font-size="26" font-weight="800" letter-spacing="-0.5">A</text>
+  <circle cx="84" cy="45" r="3.2" fill="#A78BFA"/>
+  <text x="92" y="43" fill="#A78BFA" font-family="DM Sans, Arial, sans-serif" font-size="24" font-weight="700" letter-spacing="-0.2">aman</text>
+</svg>

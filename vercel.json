@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "builds": [
+    {
+      "src": "api/script.js",
+      "use": "@vercel/node",
+      "config": {
+        "includeFiles": [
+          "Portfolio.html",
+          "assets/**",
+          "data/**"
+        ]
+      }
+    }
+  ],
+  "routes": [
+    { "src": "/(.*)", "dest": "api/script.js" }
+  ]
+}
